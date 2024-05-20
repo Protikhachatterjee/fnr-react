@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fnr-react/static/css/main.ee10e347.css",
+    "main.js": "/fnr-react/static/js/main.f861c348.js",
+    "static/js/453.d7172a80.chunk.js": "/fnr-react/static/js/453.d7172a80.chunk.js",
+    "static/media/pic1.jpeg": "/fnr-react/static/media/pic1.b9286c7f3d4fdef7677f.jpeg",
+    "index.html": "/fnr-react/index.html",
+    "main.ee10e347.css.map": "/fnr-react/static/css/main.ee10e347.css.map",
+    "main.f861c348.js.map": "/fnr-react/static/js/main.f861c348.js.map",
+    "453.d7172a80.chunk.js.map": "/fnr-react/static/js/453.d7172a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee10e347.css",
+    "static/js/main.f861c348.js"
+  ]
+}
